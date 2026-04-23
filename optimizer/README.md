@@ -30,7 +30,7 @@ Edge case handling
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/smartload-optimizer.git
+git clone https://github.com/Sandeeppandey1999/smartload-optimizer.git
 cd smartload-optimizer
 
 docker compose up --build
